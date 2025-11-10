@@ -1,0 +1,9 @@
+meu-projeto/
+│
+├── src/
+│   └── gerenciador.py
+│
+├── tests/
+│   └── test_gerenciador.py
+│
+└── README.md
